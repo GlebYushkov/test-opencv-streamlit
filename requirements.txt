@@ -1,3 +1,2 @@
 streamlit==1.14.1
-ffmpeg
 opencv-python==4.5.3.56
