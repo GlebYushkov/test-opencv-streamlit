@@ -1,3 +1,3 @@
 streamlit==1.14.1
-mediapipe==0.8.10.1
-protobuf==3.20.1
+ffmpeg
+opencv-python==4.5.3.56
